@@ -1,0 +1,181 @@
+canceled_year,canceled_month,hold_reason,confirmed_fraud,missing_escalation,payment_method,latest_buyer_price
+2023,5,Fraud,Y,N,ApplePay,10940.2
+2023,5,Fraud,Y,N,ApplePay,63033.75
+2023,5,Fraud,Y,N,Credit Card,2324.0
+2023,5,Fraud,N,N,Credit Card,300.12
+2023,5,Fraud,Y,N,ACH,15515.0
+2023,5,Fraud,Y,N,ACH,14766.0
+2023,5,Fraud,Y,N,ApplePay,33785.25
+2023,5,Fraud,Y,N,ACH,118860.92
+2023,5,Fraud,Y,N,ACH,67852.61
+2023,5,Fraud,Y,N,ACH,315650.0
+2023,5,Fraud,Y,N,ApplePay,21345.43
+2023,5,Fraud,Y,N,ACH,78645.0
+2023,5,Fraud,Y,N,ApplePay,78645.0
+2023,5,Fraud,Y,N,ApplePay,16980.13
+2023,5,Fraud,Y,N,ApplePay,315650.0
+2023,5,Fraud,Y,N,ApplePay,15515.0
+2023,5,Fraud,Y,N,ApplePay,14766.0
+2023,5,Fraud,Y,N,ApplePay,67852.61
+2023,5,Fraud,Y,N,ApplePay,32094.65
+2023,5,Fraud,Y,N,ApplePay,13855.43
+2023,5,Fraud,Y,N,Wire Transfer,118860.92
+2023,5,Fraud,Y,N,Wire Transfer,8979.97
+2023,5,Fraud,Y,N,ApplePay,4009.0
+2023,5,Fraud,N,N,Wire Transfer,9586.46
+2023,5,Fraud,N,Y,Credit Card,189.22
+2023,5,Fraud,U,N,Credit Card,4827.52
+2023,5,Fraud,Y,N,Wire Transfer,7106.28
+2023,5,Fraud,U,N,ApplePay,257.74
+2023,5,Fraud,U,N,ApplePay,474.0
+2023,5,Fraud,Y,N,Wire Transfer,31573.75
+2023,5,Fraud,U,N,Credit Card,2072.36
+2023,5,Fraud,Y,N,ApplePay,11038.13
+2023,5,Fraud,Y,N,ApplePay,8081.25
+2023,5,Fraud,Y,N,Wire Transfer,276923.0
+2023,5,Fraud,Y,N,Wire Transfer,1650000.0
+2023,5,Fraud,Y,N,ApplePay,1631.25
+2023,5,Fraud,Y,N,ApplePay,456.92
+2023,5,Fraud,Y,N,,2130.0
+2023,5,Fraud,N,Y,Wire Transfer,27080.0
+2023,5,AML,Y,N,Wire Transfer,36851.04
+2023,5,Fraud,Y,N,ApplePay,2606467.5
+2023,5,Fraud,Y,N,ACH,5394.9
+2023,5,Fraud,Y,N,Credit Card,4126.0
+2023,5,Fraud,U,Y,Credit Card,618.0
+2023,5,Fraud,Y,N,ApplePay,12748.0
+2023,5,Fraud,Y,N,ACH,42438.35
+2023,5,Fraud,Y,N,ACH,10694.65
+2023,5,Fraud,Y,N,ApplePay,323250.0
+2023,5,AML,Y,N,ApplePay,15308.99
+2023,5,Fraud,Y,N,Credit Card,2525.0
+2023,5,Fraud,Y,N,,11741.0
+2023,5,Fraud,N,Y,Credit Card,588.5
+2023,5,Fraud,Y,N,ApplePay,12748.0
+2023,5,Fraud,Y,N,ApplePay,2394000.0
+2023,5,Fraud,Y,N,Credit Card,952.6
+2023,5,Fraud,Y,N,Wire Transfer,2345820.52
+2023,5,Fraud,Y,N,,498000.0
+2023,5,AML,N,N,Credit Card,4729.19
+2023,5,Fraud,Y,N,Wire Transfer,4240000.0
+2023,5,Fraud,Y,N,Credit Card,11904.0
+2023,5,Fraud,Y,N,Wire Transfer,7327000.0
+2023,5,Fraud,Y,N,,4126.0
+2023,5,Fraud,Y,N,,3174.01
+2023,5,Fraud,Y,N,ApplePay,2962.05
+2023,5,Fraud,Y,N,ApplePay,33618.0
+2023,5,Fraud,Y,N,Wire Transfer,4741000.0
+2023,5,Fraud,Y,N,Wire Transfer,15498.4
+2023,5,Fraud,Y,N,Wire Transfer,6092.35
+2023,5,Fraud,Y,N,Wire Transfer,292457.38
+2023,5,Fraud,Y,N,ACH,11962.5
+2023,5,Fraud,Y,N,Wire Transfer,2394000.0
+2023,5,Fraud,Y,N,ACH,6805312.5
+2023,5,Fraud,Y,N,ApplePay,1939500.0
+2023,5,Fraud,Y,N,ApplePay,153.1
+2023,5,Fraud,Y,N,ApplePay,21550.0
+2023,5,Fraud,Y,N,ApplePay,31515.8
+2023,5,Fraud,Y,N,ApplePay,2370500.0
+2023,5,Fraud,Y,N,ApplePay,32323.93
+2023,5,Fraud,Y,N,ApplePay,2962.05
+2023,5,Fraud,Y,N,ApplePay,767718.75
+2023,5,Fraud,Y,N,ApplePay,202031.25
+2023,5,Fraud,Y,N,ApplePay,8500000.0
+2023,5,Fraud,N,N,ApplePay,1077.5
+2023,5,Fraud,Y,N,Wire Transfer,41277.6
+2023,5,Fraud,Y,N,PayPal,1.59
+2023,5,AML,N,N,Credit Card,35663.0
+2023,5,AML,N,N,Credit Card,26747.25
+2023,5,AML,N,N,Credit Card,10648.0
+2023,5,Fraud,N,Y,Credit Card,1330.0
+2023,5,Fraud,U,Y,Credit Card,1262.34
+2023,5,Fraud,N,Y,Credit Card,1069.0
+2023,5,Fraud,N,Y,Credit Card,1500.0
+2023,5,Fraud,U,Y,Credit Card,16576.8
+2023,5,Fraud,Y,N,Wire Transfer,82000.0
+2023,5,Fraud,Y,N,,295680.0
+2023,5,Fraud,Y,N,,0.0
+2023,5,Fraud,Y,N,,120000.0
+2023,5,Fraud,Y,N,,36465.0
+2023,5,Fraud,Y,N,Wire Transfer,38500.0
+2023,5,Fraud,Y,N,Wire Transfer,82000.0
+2023,5,Fraud,Y,N,Wire Transfer,84000.0
+2023,5,Fraud,Y,N,,5700.0
+2023,5,Fraud,Y,N,Wire Transfer,5999.99
+2023,5,Fraud,Y,N,Wire Transfer,9100.0
+2023,5,Fraud,Y,N,Wire Transfer,119944.0
+2023,5,Fraud,Y,N,Wire Transfer,32080.0
+2023,5,Fraud,Y,N,Credit Card,1725.0
+2023,5,Fraud,Y,N,Credit Card,329.0
+2023,5,Fraud,N,Y,Credit Card,55.0
+2023,5,Fraud,Y,N,ACH,140287.5
+2023,5,Fraud,Y,N,Wire Transfer,149995.0
+2023,5,Fraud,Y,N,Wire Transfer,1875000.0
+2023,5,Fraud,Y,N,Wire Transfer,80638.0
+2023,5,Fraud,U,Y,ApplePay,132625.0
+2023,5,Fraud,Y,N,Wire Transfer,750000.0
+2023,5,Fraud,N,Y,Credit Card,1172.88
+2023,5,Fraud,N,Y,Credit Card,390.0
+2023,5,Fraud,U,Y,Credit Card,896.19
+2023,5,Fraud,Y,N,ACH,5715.94
+2023,5,Fraud,Y,N,Wire Transfer,295680.0
+2023,5,Fraud,N,Y,Credit Card,636.0
+2023,5,Fraud,Y,N,ApplePay,485000.0
+2023,5,Fraud,Y,N,ACH,9248.94
+2023,5,Fraud,N,N,Credit Card,311345.0
+2023,5,Fraud,Y,N,ACH,9248.94
+2023,5,Fraud,N,N,Credit Card,9540.0
+2023,5,Fraud,N,N,Credit Card,9540.0
+2023,5,Fraud,Y,N,ACH,22837.5
+2023,5,Fraud,Y,N,ACH,13375.17
+2023,5,Fraud,Y,N,ACH,8585.82
+2023,5,Fraud,Y,N,ApplePay,498000.0
+2023,5,Fraud,Y,N,ApplePay,155000.01
+2023,5,Fraud,N,Y,Credit Card,743.48
+2023,5,Fraud,N,N,Credit Card,599.6
+2023,5,Fraud,N,Y,Credit Card,836.76
+2023,5,Fraud,N,Y,PayPal,775.0
+2023,5,Fraud,N,N,Credit Card,1793.5
+2023,5,Fraud,N,N,Credit Card,3649.33
+2023,5,Fraud,Y,N,Wire Transfer,8875.24
+2023,5,AML,N,N,Credit Card,1295.0
+2023,5,Fraud,N,Y,Credit Card,5723.0
+2023,5,Fraud,N,Y,Credit Card,5325.0
+2023,5,Fraud,N,Y,Credit Card,459.9
+2023,5,Fraud,N,Y,Credit Card,1233.5
+2023,5,Fraud,N,Y,Credit Card,427.06
+2023,5,AML,N,N,Credit Card,1295.0
+2023,5,Fraud,N,Y,Credit Card,5723.0
+2023,5,Fraud,N,Y,Credit Card,5325.0
+2023,5,Fraud,N,Y,Credit Card,459.9
+2023,5,Fraud,N,Y,Credit Card,1233.5
+2023,5,Fraud,N,Y,Credit Card,427.06
+2023,5,Fraud,U,N,Credit Card,668.0
+2023,5,Fraud,N,Y,Credit Card,629.0
+2023,5,Fraud,Y,N,ACH,6199.07
+2023,5,Fraud,N,Y,Credit Card,4946.11
+2023,5,Fraud,N,Y,Credit Card,750.0
+2023,5,Fraud,N,Y,Credit Card,4996.5
+2023,5,Fraud,N,Y,Credit Card,5723.0
+2023,5,Fraud,N,Y,Credit Card,6051.5
+2023,5,Fraud,N,Y,Credit Card,162.33
+2023,5,Fraud,Y,N,Credit Card,1874.0
+2023,5,Fraud,Y,N,Wire Transfer,116250.0
+2023,5,Fraud,N,Y,Credit Card,1400.0
+2023,5,Fraud,U,N,ApplePay,249.0
+2023,5,Fraud,N,Y,Credit Card,1290.8
+2023,5,Fraud,N,Y,Credit Card,589.95
+2023,5,Fraud,U,N,Credit Card,4000.36
+2023,5,Fraud,Y,N,Wire Transfer,116250.0
+2023,5,Fraud,U,Y,Credit Card,4000.36
+2023,5,Fraud,N,N,ApplePay,1300.54
+2023,5,Fraud,N,Y,Credit Card,2177.5
+2023,5,Fraud,N,Y,Credit Card,4026.94
+2023,5,Fraud,N,Y,Credit Card,5226.0
+2023,5,Fraud,Y,N,,4160.0
+2023,5,Fraud,Y,N,ACH,10625.0
+2023,5,Fraud,Y,N,ACH,6199.8
+2023,5,Fraud,U,Y,ApplePay,58986.96
+2023,5,Fraud,Y,N,Credit Card,318.0
+2023,5,Fraud,Y,N,ApplePay,24279.0
+2023,5,Fraud,N,N,Credit Card,350.0
